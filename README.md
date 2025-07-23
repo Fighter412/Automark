@@ -1,6 +1,9 @@
 # Automark
 This is a software I developed for my A-Level computer science coursework to automatically mark student exam papers.
-It makes use of AWS technology:
+
+It uses tkinter for the front end GUI.
+
+In the back end it makes use of AWS technology:
 AWS Lambda - Cloud processing
 AWS API gateway - Setup API communication channel (REST API)
 AWS Simple Email Service - Send emails to the user
